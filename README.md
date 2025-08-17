@@ -11,5 +11,5 @@ streamlit run app.py
 ```
 
 ## API Requirements
-- Requires FastAPI backend running on port 8000
+- Requires FastAPI backend running on port 8001
 - Endpoint: `POST /recommend`
